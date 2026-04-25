@@ -13,7 +13,7 @@ website:
 format:
   html:
     theme:
-      - united
-      - brand
+      light: pulse
+      dark: vapor
     css: styles.css
     toc: true
