@@ -1,5 +1,20 @@
 ---
-title: "About"
+title: "Shoaib Jamal Shamsi"
+image: images/profile.jpg
+about:
+  template: jolla
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/your-username
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/your-profile
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/your-handle
 ---
 
 About this site
